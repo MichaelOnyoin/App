@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1029835802370",
+    "firebase_url": "https://pharma-87771-default-rtdb.firebaseio.com",
+    "project_id": "pharma-87771",
+    "storage_bucket": "pharma-87771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029835802370:android:40f07998522beaa71a241b",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029835802370-2jlemrmfmapqd7qbat9v2q8f2flk5mfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88omnUo6HuHKJYCUnIr7UuJt28ZG1tt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029835802370-2jlemrmfmapqd7qbat9v2q8f2flk5mfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029835802370:android:a5b767d9d156357b1a241b",
+        "android_client_info": {
+          "package_name": "com.package.pharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029835802370-2jlemrmfmapqd7qbat9v2q8f2flk5mfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88omnUo6HuHKJYCUnIr7UuJt28ZG1tt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029835802370-2jlemrmfmapqd7qbat9v2q8f2flk5mfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
